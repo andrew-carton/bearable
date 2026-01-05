@@ -82,7 +82,7 @@ h6 {
 }
 :root {
   --font-family: "Handwriting", "Indie Flower", "cursive";
-  --regular-font-size: 1.8rem;
+  --regular-font-size: 1.4rem;
   --background: #fff;
   --foreground: #000;
   --card-background: #fff;
@@ -104,7 +104,7 @@ h6 {
   padding:0
 }
 :root {
-  --regular-font-size: 1.8rem
+  --regular-font-size: 1.4rem
 }
 body {
   background:var(--background);
